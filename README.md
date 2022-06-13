@@ -1,1 +1,2 @@
-# cpu_scheduling_via_fcfs
+# Source and Information
+https://www.geeksforgeeks.org/program-for-fcfs-cpu-scheduling-set-1/
